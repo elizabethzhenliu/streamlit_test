@@ -1,6 +1,4 @@
-pyaudio
-parselmouth 
-altair
 streamlit 
 pandas
+altair
 numpy

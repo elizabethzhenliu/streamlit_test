@@ -1,2 +1,7 @@
-streamlit
+pyaudio
+parselmouth 
+altair
+streamlit 
 pandas
+numpy
+math
